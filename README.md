@@ -1,5 +1,13 @@
 # AI Agent To-Do List (n8n Workflow)
 
+![n8n](https://img.shields.io/badge/Built%20With-n8n-orange)
+![OpenAI](https://img.shields.io/badge/AI-OpenAI-blue)
+![Google Sheets](https://img.shields.io/badge/Database-Google%20Sheets-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+An AI-powered To-Do List automation built with **n8n**, **OpenAI**, and **Google Sheets**.
+# Project description...
+
 An AI-powered To-Do List automation built with **n8n**, **OpenAI**, and **Google Sheets**.
 
 This workflow allows you to manage your tasks using natural language by chatting with an AI agent. The agent can create, list, update, and delete tasks while automatically storing them in Google Sheets.
